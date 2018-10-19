@@ -53,3 +53,9 @@ Ken Lang is credited by the source for collecting this data. The source of the d
 ### Inspiration
 
 - This dataset text can be used to classify text documents
+
+
+
+#### References
+
+* [Ben-Gurion University of Negev -- Classification of text documents: 20-Newsgroup Dataset](https://www.cs.bgu.ac.il/~elhadad/nlp17/Classification_20Groups_Sklearn.html)
